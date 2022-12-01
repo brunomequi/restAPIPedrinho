@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/brunomequi/restAPIPedrinho/issues"
   },
-  "homepage": "https://github.com/brunomequi/restAPIPedrinho#readme"
+  "homepage": "https://github.com/brunomequi/restAPIPedrinho#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "json-server": "^0.17.1"
+  }
 }
